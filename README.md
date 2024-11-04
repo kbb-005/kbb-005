@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Karan, aka @kbb-005, the Unsocial Animal
+# "Hi, I’m Karan, aka @kbb-005, and here’s my 5-step plan to get rich:
+Step 1: Think big.
+Step 2: Start small.
+Step 3: Get distracted halfway.
+Step 4: Wonder where I left my wallet.
+Step 5: Realize my true wealth is in my personality." 😎
 
 - 👀 I’m interested in staying indoors and coding away while avoiding human interaction.
 - 🌱 I’m currently learning how to communicate with other humans... but Java and cloud architecture are more fun.
